@@ -1,5 +1,9 @@
 # Make a Talking Robot
 
+###features to be added by my fork:
+* usage with a gertboard 
+* using servos and motors to move the robot
+
 **Introduction**
 
 We are going to make a talking robot using a Raspberry Pi. A Raspberry Pi is a small computer that we can use to create exciting technology. It was created in the UK by the Raspberry Pi Foundation to help young people like you learn how to code.
